@@ -1,7 +1,17 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+![Jupyter + M2 logo](jupyter+m2.png)
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+# Macaulay2 in JupyterLab (GitHub Codespaces)
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+This repository provides a ready-to-use GitHub Codespace that runs
+**JupyterLab with the Macaulay2 kernel** preinstalled.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+No local installation is required — everything runs in your browser.
+
+---
+
+## Quick start
+
+1. Click **Code → Codespaces → Create codespace on main**
+2. Wait for the environment to build (it takes a few minutes -- grab a sandwich 🥪)
+3. Once it has built, go to https://github.com/codespaces, find your codespace, click the ⋯, and select **Open in JupyterLab**
+4. Click the M2 icon to start a notebook and start coding!
